@@ -1,5 +1,5 @@
 {
-  "name": "ciromattia/laravel-teamwork",
+  "name": "alegiac/laravel-teamwork",
   "description": "PHP wrapper for the Teamwork project management API",
   "keywords": [
     "teamwork",
@@ -9,6 +9,10 @@
   ],
   "license": "MIT",
   "authors": [
+    {
+      "name": "Alessandro Giacomella",
+      "email": "alessandro.giacomella@gmail.com"
+    },
     {
       "name": "Ciro Mattia Gonano",
       "email": "ciromattia@gmail.com"
